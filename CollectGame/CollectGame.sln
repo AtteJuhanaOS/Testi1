@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectGame.Plugins", "CollectGame.Plugins.csproj", "{FF98EB3C-1EDA-5279-C815-6C0F28E0E77F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectGame", "CollectGame.csproj", "{D854F098-C608-07ED-2291-5B547BDD4F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectGame.Editor.Plugins", "CollectGame.Editor.Plugins.csproj", "{EE183842-DB33-4635-5933-2C370E4A9C2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF98EB3C-1EDA-5279-C815-6C0F28E0E77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF98EB3C-1EDA-5279-C815-6C0F28E0E77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF98EB3C-1EDA-5279-C815-6C0F28E0E77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF98EB3C-1EDA-5279-C815-6C0F28E0E77F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D854F098-C608-07ED-2291-5B547BDD4F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D854F098-C608-07ED-2291-5B547BDD4F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D854F098-C608-07ED-2291-5B547BDD4F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D854F098-C608-07ED-2291-5B547BDD4F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE183842-DB33-4635-5933-2C370E4A9C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE183842-DB33-4635-5933-2C370E4A9C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE183842-DB33-4635-5933-2C370E4A9C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE183842-DB33-4635-5933-2C370E4A9C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
